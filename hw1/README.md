@@ -2,7 +2,7 @@
 
 **Part 1 - Data analysis:**
 
-** **We have chosen the "Birds species" dataset.
+We have chosen the "Birds species" dataset.
 
 **a.**  	 The dataset consists of 87874 images - 81950 for training, 2575 for validation and   2575 for testing.
 
